@@ -11,7 +11,7 @@ const team = [
     name: "Ajay Suse",
     role: "Senior Engineer",
     bio: "As Senior Engineer, Ajay Suse oversees the technical aspects of project planning and execution. His practical approach, problem-solving skills, and dedication to quality contribute to creating durable and well-engineered spaces.",
-    img: "/Ajay.jpg"
+    img: "/ajay.jpg.jpeg"
   },
   {
     name: "Nadeem Shaikh",
@@ -49,7 +49,7 @@ export default function About() {
             className="w-full h-96 relative group"
           >
              <img 
-               src="/studio.jpg" 
+               src="/studio.jpg.png" 
                alt="Our Studio" 
                className="w-full h-full object-cover object-top shadow-2xl"
              />
