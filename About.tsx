@@ -2,19 +2,19 @@ import { motion } from 'motion/react';
 
 const team = [
   {
-    name: "Akshay Suse",
+    name: "Ar.Akshay Suse",
     role: "Founder & Lead Architect",
     bio: "Akshay Suse leads AK Reality with a vision of creating innovative, functional, and aesthetically refined spaces. His commitment to quality, attention to detail, and client-focused approach ensure that every project is executed with excellence.",
     img: "/akshay.jpg"
   },
   {
-    name: "Ajay Suse",
+    name: "Er.Ajay Suse",
     role: "Senior Engineer",
     bio: "As Senior Engineer, Ajay Suse oversees the technical aspects of project planning and execution. His practical approach, problem-solving skills, and dedication to quality contribute to creating durable and well-engineered spaces.",
     img: "/ajay.jpg.jpeg"
   },
   {
-    name: "Nadeem Shaikh",
+    name: "Er.Nadeem Shaikh",
     role: "Engineer ",
     bio: "Nadeem Shaikh brings extensive engineering expertise and technical excellence to every project. He ensures that designs are transformed into structurally sound and efficient solutions while maintaining the highest standards of quality and safety.",
     img: "/Nadeem.jpg"
